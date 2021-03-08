@@ -1,5 +1,6 @@
 import Web3 from "web3";
 import type { AbiItem } from "web3-utils";
+import {CIRCLES_HUB_ABI} from "./abi";
 
 const userAddress = "0xDE374ece6fA50e781E81Aac78e811b33D16912c7";
 const hubAddress = "0x29b9a7fBb8995b2423a71cC17cf9810798F6C543";
