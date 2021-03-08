@@ -1,4 +1,4 @@
-This repository demonstrates a problem I have with Nethermind's eth_getLogs-implementation.   
+This repository demonstrates a problem I have with Nethermind's eth_getLogs-implementation (Github issue: https://github.com/NethermindEth/nethermind/issues/2868).   
 
 The code looks for the following event on the xDai chain:
 ```json
